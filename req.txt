@@ -1,0 +1,7 @@
+streamlit
+google-generativeai>=0.7.0
+firebase-admin
+pandas
+extra-streamlit-components
+xlsxwriter
+plotly
